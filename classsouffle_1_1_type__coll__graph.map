@@ -1,0 +1,4 @@
+<map id="souffle::Type" name="souffle::Type">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_qualified_name.html" title="Qualified Name class for fully/partially qualified names to identify objects in components. " alt="" coords="5,167,197,391"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_type_environment.html" title="A type environment is a set of types. " alt="" coords="221,160,408,399"/>
+</map>

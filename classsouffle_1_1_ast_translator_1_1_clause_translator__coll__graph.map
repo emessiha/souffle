@@ -1,0 +1,14 @@
+<map id="souffle::AstTranslator::ClauseTranslator" name="souffle::AstTranslator::ClauseTranslator">
+<area shape="rect" id="node2" href="$classsouffle_1_1_auxiliary_arity.html" title="Determine the auxiliary arity for relations. " alt="" coords="371,1487,533,1623"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_translator.html" title="Main class for AST Translator. " alt="" coords="807,1759,1073,2027"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="26,489,177,625"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="235,359,384,465"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_program.html" title="Intermediate representation of a datalog program that consists of relations, clauses and types..." alt="" coords="761,951,993,1351"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="1241,649,1383,888"/>
+<area shape="rect" id="node9" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="215,160,364,281"/>
+<area shape="rect" id="node23" href="$classjson11_1_1_json.html" title="{json11::Json\n||+ array_items()\l+ bool_value()\l+ dump()\l+ dump()\l+ has_shape()\l+ int_value()\l+ is_array()\l+ is_bool()\l+ is_null()\l+ is_number()\land 31 more...\l+ parse()\l+ parse()\l+ parse_multi()\l+ parse_multi()\l}" alt="" coords="1029,1413,1155,1696"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="1179,1428,1347,1681"/>
+<area shape="rect" id="node27" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="1191,1090,1295,1211"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_type_environment.html" title="A type environment is a set of types. " alt="" coords="1371,1435,1557,1674"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ast_translator_1_1_value_index.html" title="A class indexing the location of variables and record references within a loop nest resulting from th..." alt="" coords="1330,1759,1526,2027"/>
+</map>

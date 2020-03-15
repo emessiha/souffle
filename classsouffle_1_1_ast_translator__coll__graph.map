@@ -1,0 +1,12 @@
+<map id="souffle::AstTranslator" name="souffle::AstTranslator">
+<area shape="rect" id="node3" href="$classsouffle_1_1_auxiliary_arity.html" title="Determine the auxiliary arity for relations. " alt="" coords="854,1487,1017,1623"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="5,489,156,625"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="117,359,266,465"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_program.html" title="Intermediate representation of a datalog program that consists of relations, clauses and types..." alt="" coords="959,951,1191,1351"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in a Datalog program. " alt="" coords="119,649,261,888"/>
+<area shape="rect" id="node10" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="213,160,362,281"/>
+<area shape="rect" id="node22" href="$classjson11_1_1_json.html" title="{json11::Json\n||+ array_items()\l+ bool_value()\l+ dump()\l+ dump()\l+ has_shape()\l+ int_value()\l+ is_array()\l+ is_bool()\l+ is_null()\l+ is_number()\land 31 more...\l+ parse()\l+ parse()\l+ parse_multi()\l+ parse_multi()\l}" alt="" coords="1523,1413,1649,1696"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="1673,1428,1841,1681"/>
+<area shape="rect" id="node26" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="1705,1090,1809,1211"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_type_environment.html" title="A type environment is a set of types. " alt="" coords="1943,1435,2130,1674"/>
+</map>
